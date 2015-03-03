@@ -1,1 +1,1 @@
-We are aiming at implement some classical machine learning algorithms using MR4C.
+We are aiming at implementing some classical machine learning algorithms using MR4C.
